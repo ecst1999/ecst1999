@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Steve Carvajal</h1>
 <h3 align="center">A passionate backend developer from Ecuador</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ecst1999" alt="ecst1999" /></a> </p>
-
 - 🔭 I’m currently working on [SUGpro](http://sugpro.istcre.edu.ec/login)
 
 - 🌱 I’m currently learning **Angular, NodeJS, Python**
