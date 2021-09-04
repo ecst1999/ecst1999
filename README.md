@@ -9,7 +9,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/steve-javier-carvajal-zambrano-664b62183/](https://www.linkedin.com/in/steve-javier-carvajal-zambrano-664b62183/)
 
-- ⚡ Fun fact **I love play VideoGames**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
