@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **javier_zam1998@live.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/steve-javier-carvajal-zambrano-664b62183/](https://www.linkedin.com/in/steve-javier-carvajal-zambrano-664b62183/)
+- 📄 Know about my experiences [www.linkedin.com/in/ecst1999](www.linkedin.com/in/ecst1999)
 
 
 <h3 align="left">Connect with me:</h3>
